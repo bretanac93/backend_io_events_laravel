@@ -1,0 +1,19 @@
+{
+	"appKey": "hklm36o4hc9d5o2ht226be8ohsnu6dkmg48fgd7960nkksskkaummgqfpifi",
+	"authHost": null,
+	"authEndpoint": "/broadcasting/auth",
+	"database": "redis",
+	"databaseConfig": {
+		"redis": {},
+		"sqlite": {
+			"databasePath": "/database/laravel-echo-server.sqlite"
+		}
+	},
+	"devMode": false,
+	"host": "smallchat.lo",
+	"port": "6001",
+	"referrers": [],
+	"socketio": {},
+	"sslCertPath": "",
+	"sslKeyPath": ""
+}
