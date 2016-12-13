@@ -17,7 +17,6 @@
         <script src="http://cdn.lo/js/socket.io.js" type="text/javascript"></script>
         <script src="http://cdn.lo/js/vue.js" type="text/javascript"></script>
         <script src="http://cdn.lo/js/jquery.js" type="text/javascript"></script>
-        <script src="http://cdn.lo/js/vue-resource.js"></script>
         <script src="http://cdn.lo/js/underscore.js" type="text/javascript"></script>
         <script type="text/javascript">
             var socket = io('http://localhost:3000');
